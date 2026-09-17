@@ -34,6 +34,10 @@ We will first use ordinary Haskell functions as intuition for arrows in `Set`, t
 - a Haskell function as a concrete set-function model;
 - a morphism in an arbitrary category, where elementwise reasoning may not exist.
 
+Current lab:
+
+- `03-category-basics.hs` — Aluffi I.§3.1 + Bird §1.4.7: identity, functional composition, type matching, and finite checks of the category laws.
+
 ### I.§5 — Universal properties
 
 Planned labs:
